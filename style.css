@@ -80,3 +80,19 @@
     font-weight: bold;
     color: #333;
 }
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+textarea {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    display: block;
+}
