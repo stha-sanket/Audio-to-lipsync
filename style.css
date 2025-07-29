@@ -52,3 +52,31 @@
     left: 45px;
     border-radius: 2px;
 }
+
+.mouth-mbp {
+    height: 8px;
+    width: 120px;
+    left: 40px;
+    border-radius: 4px;
+}
+
+.mouth-ltd {
+    height: 15px;
+    width: 100px;
+    left: 50px;
+    border-radius: 0 0 20px 20px;
+}
+
+.mouth-chj {
+    height: 30px;
+    width: 90px;
+    left: 55px;
+    border-radius: 15px;
+}
+
+#phoneme-display {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
